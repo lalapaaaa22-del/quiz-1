@@ -36,4 +36,4 @@ karna mobil dan motor punya atribut yang sama jadi bisa menghemat kode dengan in
 jawaban : misal : mobil, x234567 , Honda , 2024
 begitu juga dengan motor dengan atributnya nomor polisi , merek tahunoridksi , jumlahpintustatus servis  
 
-//ini koreksian:)
+//ini koreksian buat saya aja pak🙏
